@@ -1,0 +1,25 @@
+    :root {
+      --brand-white: #edeee8;
+      --brand-pale: rgba(237, 238, 232, 0.7);
+      --brand-shine: rgba(237, 238, 232, 0.05);
+
+      --brand-black: #00072c;
+      --brand-smoke: rgba(0, 7, 44, 0.7);
+      --brand-shadow: rgba(0, 7, 44, 0.2);
+
+      --brand-gray: #4b5579;
+
+      --brand-dark: #061651;
+      --brand-night: rgba(6, 22, 81, 0.7);
+
+      --brand-primary: #123498;
+      --brand-neon: rgba(18, 52, 152, 0.1);
+
+      --brand-sky: #dde2f6;
+      --brand-cloud: rgba(221, 226, 246, 0.5);
+
+      --brand-accent: #f15a2b;
+      --brand-glow: rgba(241, 90, 43, 0.2);
+
+      --nav-height: 72px;
+    }
